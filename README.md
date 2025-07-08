@@ -30,7 +30,6 @@
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](email:telembergm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maria-eduarda-telemberg)
 
 ---
